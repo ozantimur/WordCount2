@@ -6,9 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("hello world"); // sdndljsjkfhsjkhfksdj
-        // lkdhsfksjfhksjdhfksdfhkjdshfkjsdhkfsj
-        // fgjhfgohjophjpfgjhpofjghpojfphfjpghojpfh
+        System.out.println("hello world"); // hello
 
         Scanner in = new Scanner(System.in);
 
