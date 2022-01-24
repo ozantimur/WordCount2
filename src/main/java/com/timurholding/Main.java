@@ -17,7 +17,7 @@ public class Main {
 
     public static int kelimeHesapla(String cumle) {
 
-        //Mehmet buraya hosgeldin. Ozan sen de hosgeldin.
+        //Mehmet buraya hosgeldin. Ozan sen de hosgeldin. Hepimiz hosgeldik.
         int boslukSayisi = 0;
 
         for (int i = 0; i < cumle.length(); i++) {
